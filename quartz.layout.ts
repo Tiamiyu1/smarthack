@@ -27,8 +27,14 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    // Component.Explorer(),
-    Component.RecentNotes({ title: "Recent Hacks", showTags: false })
+    Component.DesktopOnly(),
+    Component.RecentNotes({
+      title: "Recent Hacks", 
+      showTags: false, 
+      filter: (f) =>
+        f.slug!.startsWith("hacks/") && f.slug! !== "hacks/index" && !f.frontmatter?.noindex,
+      linkToMore: "hacks/" as SimpleSlug,
+    }),
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
@@ -45,7 +51,6 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.Explorer(),
   ],
   right: [],
 }
