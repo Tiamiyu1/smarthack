@@ -1,6 +1,8 @@
 ---
 title: Background Remover
 date: 2025-02-03
+pubdate: 2025-02-03
+lastmod: 2025-02-03
 draft: false
 tags:
   - picture
