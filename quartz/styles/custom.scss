@@ -395,3 +395,14 @@ body.animation-ready #quartz-body {
   }
 }
 
+
+.content-meta {
+  display: none;
+}
+
+body[data-slug^="hacks/"],
+body[data-slug^="posts/"] {
+  .content-meta {
+    display: initial;
+  }
+} 
