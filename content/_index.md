@@ -2,6 +2,8 @@
 title: Welcome to Smart Hack!
 date: 2025-02-03
 ---
+<img src="./og-image.png" width="701" height="123">
+
 
 <div style="text-align: justify"> 
 

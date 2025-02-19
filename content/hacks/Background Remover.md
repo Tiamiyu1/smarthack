@@ -32,12 +32,7 @@ description: An AI-powered online tool that instantly removes backgrounds from i
 
 **Useful links**
 - Official [website](https://remove.bg)
-- DIY [video]()
-
-
-
-
-
+- DIY [video](https://youtu.be/3A3KDuoV-pg)
 
 
 Author: [Abdulwasiu Tiamiyu](/tags/tiamiyu)

@@ -32,8 +32,7 @@ tags:
 
 **Useful links**
 - Official [website](https://imageresizer.com/)
-- DIY [video]()
+- DIY [video](https://youtu.be/0dTvqJHdbus)
  
-
-
+ 
 Author: [Abdulwasiu Tiamiyu](/tags/tiamiyu)
