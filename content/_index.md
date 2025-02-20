@@ -21,16 +21,20 @@ Find tools in the following categories or use the keyword search:
 - [PC](/tags/pc)
 - [Smart Phone](/tags/smart-phone)
 - [Picture](/tags/picture)
-- [Video](/tags/video)
+- [DIY](/tags/diy)
+- All [categories...](/tags/)
 
 ## Featured Tools
 - **[[Background Remover]]:** 
 An AI-powered tool that instantly removes backgrounds from images with a single click. It's perfect for creating professional images, banners, or social media posts.  
+- **[[Favicon Generator]]:**
+A free online tool that creates high-quality favicons from text, images, or emojis, perfect for branding your website. 
 - **[[Image Resizer]]:**
 A simple online tool to resize, crop, and optimize your images effortlessly. Whether you need to resize images for social media, websites, or presentations, this tool has you covered. 
+- [[hacks|See more...]]
 
 ## Get In Touch
-If you have any questions or need help using these tools or you would like to add some of the tools you have found interesting and useful in your daily life, feel free to [[Contact|reach out!]]
+If you have any questions or need help using these tools or you would like to add some of the tools you have found interesting and useful in your daily life, feel free to [[contact|reach out!]]
 
 ---
 

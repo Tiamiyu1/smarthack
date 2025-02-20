@@ -1,5 +1,5 @@
 ---
-title: Contact/Join Us!
+title: Contact Us!
 date: 2025-02-04
 
 ---

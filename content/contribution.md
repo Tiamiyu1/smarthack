@@ -22,14 +22,15 @@ Clone your forked repository to your local machine:
 git clone https://github.com/your-username/smart-hack.git
 ```
 
-### 3️⃣ **Copy the Template**  
-Inside the repository, navigate to content/template.md and copy it while renaming your-hack-name.md to a relevant name that represents your hack/tool.
+### 3️⃣ **Copy the template and move your hack to the hacks directory**  
+Inside the repository, navigate to content/template.md and copy it while renaming your-hack-name.md to a relevant name that represents your hack/tool. The comman below copies and moves the file to the hacks directory.
 ```bash
-cp template.md your-hack-name.md
+cp template.md hacks/your-hack-name.md
 ``` 
 
 ### 4️⃣ **Fill in the Details**  
-Open the newly created file and fill in the details following the format in Template.md.
+Open the newly created file and fill in the details following the format in template.md.
+
 
 ### 5️⃣ **Commit Your Changes**  
 ```bash Once you've completed your hack, commit your changes:

@@ -1,12 +1,12 @@
 ---
-title: Image Resizer
-# date: 2025-02-03
+title: 
+date: YYYY-MM-DD
 draft: true
 tags: 
   - picture
   - smart-phone
   - pc
-  - Lastname #Author last name for tags
+  - lastname #Author last name for tags
 ---
 
 <div style="text-align: center;">
@@ -16,19 +16,22 @@ tags:
 <div style="text-align: justify">
   **Tool_name** 
   Desription
-</div>
+
 
 **Personal use case:** 
-> 
+> ...
 
 **Key features**
 -
 -
 
+**How it works**
+
+
 **Useful links**
-- Official [website]()
-- DIY [video]()
+- Official <a href=" " target="_blank">website</a>
+- DIY <a href=" " target="_blank">video</a>
  
 
 
-Author: [Fistname Lastname](/tags/Lastname)
+Author: [Fistname Lastname](/tags/lastname) </div>
